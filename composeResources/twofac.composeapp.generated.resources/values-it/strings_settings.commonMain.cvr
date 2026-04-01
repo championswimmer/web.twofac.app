@@ -1,6 +1,7 @@
 version:0
 string|desktop_tray_open|QXByaSBUd29GYWM=
 string|desktop_tray_popup_title|VHJheSBkaSBUd29GYWM=
+string|desktop_tray_quick_view|VmlzdGEgcmFwaWRh
 string|desktop_tray_quit|RXNjaSBkYSBUd29GYWM=
 string|desktop_tray_tooltip|VHdvRmFj
 string|desktop_window_title|VHdvRmFj

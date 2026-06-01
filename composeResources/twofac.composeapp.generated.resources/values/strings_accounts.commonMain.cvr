@@ -1,5 +1,8 @@
 version:0
 string|account_detail_account_label|QWNjb3VudDogJTEkcw==
+string|account_detail_color_none|Tm9uZQ==
+string|account_detail_color_selected|U2VsZWN0ZWQgY29sb3I=
+string|account_detail_color_title|Q29sb3I=
 string|account_detail_delete_dialog_message|VGhpcyB3aWxsIHBlcm1hbmVudGx5IHJlbW92ZSAlMSRzIGZyb20geW91ciB2YXVsdC4=
 string|account_detail_delete_dialog_title|RGVsZXRlIGFjY291bnQ/
 string|account_detail_delete|RGVsZXRlIEFjY291bnQ=
